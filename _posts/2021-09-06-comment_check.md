@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "댓글 테스트 글"
-summary: This is a sample post 2 by HG !
+title:  "댓글 테스트 !"
+summary: comment test sample post 2 by HG !
 author: Reo
-date: {{#time:Y-m-d H:i:s}}
-category: jekyll
+date: '2021-09-06 01:30:00 +0900'
+category: etc
 thumbnail: /assets/img/posts/code.jpg
-comment: true
+comments: true
 ---
 
 # 첫 글입니다 !
