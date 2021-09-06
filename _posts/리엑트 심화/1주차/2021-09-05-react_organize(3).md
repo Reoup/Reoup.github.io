@@ -7,7 +7,7 @@ category: React
 excerpt: "스파르타 코딩클럽 리엑트 1주차"
 thumbnail: /assets/img/posts/code.jpg
 tags: [스파르타 1주차, 변수와 상수, var, let, const, TDZ, 자료형]
-permalink: /blog/react_organize(1)/
+permalink: /blog/react_organize(3)/
 usemathjax: true
 ---
 > 자바스크립트는 함수를 특별한 값으로 취급한다.
