@@ -564,7 +564,7 @@ header {
 
 /* jumbotron */
 .jumbotron {
-  background-color: rgba(0, 0, 0, 0);
+  background-color: rgba(0, 0, 0, 0) !important;
   background-image: url(/assets/img/background_img.jpg);
   background-attachment: fixed;
   background-size: cover;
