@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Data-Analysis
-permalink: /blog/categories/data-Analysis/
+permalink: /blog/categories/Data-Analysis/
 ---
 
 <h5> Posts by Category : {{ page.title }} </h5>
 
 <div class="card">
-{% for post in site.categories.data-Analysis %}
+{% for post in site.categories.Data-Analysis %}
  <li class="category-posts"><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </div>
