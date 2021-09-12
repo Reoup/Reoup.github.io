@@ -102,6 +102,7 @@ disqus_shortname: reoup-github-io
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
+mathjax: true
 
 # Choose what to show ( can be true or false)
 show_author_work_experiences: true
@@ -173,13 +174,6 @@ jekyll_admin:
 #
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
-
-# Conversion
-markdown: kramdown
-highlighter: rouge
-lsi: false
-excerpt_separator: "\n\n"
-incremental: false
 
 exclude:
   - .sass-cache/
