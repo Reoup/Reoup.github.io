@@ -8,7 +8,7 @@ excerpt: "스파르타 코딩클럽 머신러닝 1주차"
 thumbnail: /assets/img/posts/Machine_Learning.png
 tags: [스파르타 1주차, 머신러닝, 딥러닝, 지도 학습, 비지도 학습, 강화 학습, 선형 회귀, 경사 하강법, Learning rate, 손실 함수,  데이터셋 분할, 알고리즘, Colab, Colaboratory, Kaggle, 캐글]
 permalink: /blog/machine_learning-one_week/
-usemathjax: true
+use_math: true
 ---
 <h1>01. 1주차 배울 것</h1>
 
