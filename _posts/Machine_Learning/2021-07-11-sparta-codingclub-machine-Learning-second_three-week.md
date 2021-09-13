@@ -8,7 +8,7 @@ excerpt: "스파르타 코딩클럽 머신러닝 3주차"
 thumbnail: /assets/img/posts/code.jpg
 tags: [스파르타 3주차, 딥러닝, Deep learning, 선형 회귀, 비선형,Deep neural networks, Multilayer Perceptron, MLP, 역전파, Backpropagation, batch, iteration, epoch, 활성화 함수, Activation function, 과적합, 과소적합, Overfitting, Underfitting, 데이터 증강기법, Data augmentation, 드랍아웃, Dropout, 앙상블, Ensemble, Learning rate decay, Learning rate schedules]
 permalink: /blog/machine_learning-three_week/
-usemathjax: true
+use_math: true
 ---
 
 <h2> 3주차 오늘 배울 것</h2>

@@ -8,7 +8,7 @@ excerpt: "스파르타 코딩클럽 머신러닝 2주차"
 thumbnail: /assets/img/posts/code.jpg
 tags: [스파르타 2주차, 논리회귀, 전처리, Logistic regression, Sigmoid function, 선형 회귀, binary_crossentropy, 다항 논리 회귀, One-hot encoding, Softmax, categorical_crossentropy, Support Vector Machine, SVM, KNN, Decision tree, Random Forest, 정규화, 표준화]
 permalink: /blog/machine_learning-two_week/
-usemathjax: true
+use_math: true
 ---
 
 <h2>01. 2주차 오늘 배울 것</h2>

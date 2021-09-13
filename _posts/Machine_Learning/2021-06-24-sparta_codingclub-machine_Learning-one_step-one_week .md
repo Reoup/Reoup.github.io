@@ -8,7 +8,7 @@ excerpt: "한걸음 더 알아보기"
 thumbnail: /assets/img/posts/code.jpg
 tags: [스파르타 1주차, Optimizer, keras, 머신러닝, mean_squared_error, mean_absolute_error]
 permalink: /blog/machine_learning-one_step-one_week/
-usemathjax: true
+use_math: true
 ---
 # [한걸음 더] 다양한 Optimizers 살펴보기
 <p>참고: <a href="https://keras.io/ko/optimizers/">Optimizers 사용법</a><br>

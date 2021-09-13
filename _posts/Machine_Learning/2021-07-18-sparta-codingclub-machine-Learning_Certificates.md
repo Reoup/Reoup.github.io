@@ -8,7 +8,7 @@ excerpt: "스파르타 코딩클럽 머신러닝 수료증"
 thumbnail: /assets/img/posts/code.jpg
 tags: [머신러닝 수료증]
 permalink: /blog/machine_learning-Certificates/
-usemathjax: true
+use_math: true
 ---
 
 <h1>후기</h1>

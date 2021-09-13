@@ -7,7 +7,7 @@ category: Machine-Learning
 thumbnail: /assets/img/posts/code.jpg
 tags: [스파르타 4주차, Convolution Neural Networks, 합성곱 신경망, 물체 인식, 이미지 분할, AlexNet, VGGNet, GoogLeNet, Inception V3, ResNet, Transfer Learning, 전이 학습, Recurrent Neural Networks, 순환 신경망, Generative Adversarial Network, 생성적 적대 신경망]
 permalink: /blog/machine_learning-four_week/
-usemathjax: true
+use_math: true
 ---
 
 <h2>이번 주차 배울 것</h2>
